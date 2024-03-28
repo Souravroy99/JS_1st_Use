@@ -1,2 +1,3 @@
-# JS_1st_Use
+# JS_Basics
+
 A code repository of JavaScript
